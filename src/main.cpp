@@ -85,7 +85,7 @@ void motorInstallCheck(vex::motor& motor, const char* name, int32_t port)
         resetTerminalColour();
         clearTerminal();
     }
-}
+} 
 
 int main()
 {
